@@ -1,5 +1,3 @@
-![SteamCity Logo](./SteamCity_logo_colours.png)
-
 # SteamCity Inquiries Repository
 
 This repository collects all the educational inquiries and experimentation protocols developed in the framework of the [SteamCity Project](https://www.steamcity.eu/).
