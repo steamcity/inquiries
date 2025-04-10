@@ -12,7 +12,9 @@ This repository provides structured access to classroom-oriented resources. Thes
 
 ## Structure of the Repository
 
-The repository is organized into 5 problem-oriented clusters. Each cluster reflects a key challenge of territories in the 21st century.
+The repository offers multiple ways to explore the 25 inquiries and their related experimentation protocols.
+
+### 1. By Clusters (Territorial Challenges)
 
 | Cluster | Topic | Focus |
 |---------|-------|-------|
@@ -22,11 +24,44 @@ The repository is organized into 5 problem-oriented clusters. Each cluster refle
 | Cluster 4 | Energy | Energy efficiency and smart consumption |
 | Cluster 5 | Artificial Intelligence | AI applications in smart cities |
 
+> Note: Some inquiries may belong to several clusters.
+
+---
+
+### 2. By Disciplines
+
+- Civic Education  
+- History and Geography  
+- Physics and Chemistry  
+- Design and Arts  
+- Technology and Engineering  
+- Biology  
+
+---
+
+### 3. By Research Questions
+
+- How can we create new energy scenarios for the future?  
+- How can we assess the human impact on energy consumption?  
+- How can energy loss and waste be avoided?  
+- How can we consider the ethics of autonomous mobility?  
+- How can we assess the importance of regulation of mobility?  
+- How do mobility policies impact urban quality of life?  
+- How does digital technology connect with the territory?  
+- How does AI learn compared to a human?  
+- How can artificial intelligence demonstrate creativity?  
+- How can we make sense of data?  
+- How can we collaborate to design a sustainable city?  
+- How does our territory work?  
+- How do urban choices affect quality of life?  
+- How do human activities influence biodiversity?  
+- How does urban pollution affect quality of life?  
+
 ---
 
 ## Resources Provided
 
-Each cluster provides:
+Each cluster and inquiry provides:
 - Inquiry scenarios and guidelines  
 - Experimentation protocols  
 - Pedagogical materials  
