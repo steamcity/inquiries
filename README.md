@@ -1,3 +1,5 @@
+![SteamCity Logo](./SteamCity_logo_colours.png)
+
 # SteamCity Inquiries Repository
 
 This repository collects all the educational inquiries and experimentation protocols developed in the framework of the [SteamCity Project](https://www.steamcity.eu/).
@@ -12,9 +14,15 @@ This repository provides structured access to classroom-oriented resources. Thes
 
 ## Structure of the Repository
 
-The repository offers multiple ways to explore the 25 inquiries and their related experimentation protocols.
+You can explore the 25 inquiries and their experimentation protocols in different ways, depending on your needs.
 
-### 1. By Clusters (Territorial Challenges)
+### Access to all resources at once
+
+A dedicated folder provides direct access to all inquiries and protocols in a single place.
+
+---
+
+### By Clusters (Territorial Challenges)
 
 | Cluster | Topic | Focus |
 |---------|-------|-------|
@@ -28,7 +36,7 @@ The repository offers multiple ways to explore the 25 inquiries and their relate
 
 ---
 
-### 2. By Disciplines
+### By Disciplines
 
 - Civic Education  
 - History and Geography  
@@ -39,29 +47,29 @@ The repository offers multiple ways to explore the 25 inquiries and their relate
 
 ---
 
-### 3. By Research Questions
+### By Research Questions (From Global to Specific)
 
-- How can we create new energy scenarios for the future?  
-- How can we assess the human impact on energy consumption?  
-- How can energy loss and waste be avoided?  
-- How can we consider the ethics of autonomous mobility?  
-- How can we assess the importance of regulation of mobility?  
-- How do mobility policies impact urban quality of life?  
-- How does digital technology connect with the territory?  
-- How does AI learn compared to a human?  
-- How can artificial intelligence demonstrate creativity?  
-- How can we make sense of data?  
-- How can we collaborate to design a sustainable city?  
-- How does our territory work?  
-- How do urban choices affect quality of life?  
-- How do human activities influence biodiversity?  
-- How does urban pollution affect quality of life?  
+1. How can we collaborate to design a sustainable city?  
+2. How does our territory work?  
+3. How do urban choices affect quality of life?  
+4. How does urban pollution affect quality of life?  
+5. How do human activities influence biodiversity?  
+6. How do mobility policies impact urban quality of life?  
+7. How can we assess the importance of regulation of mobility?  
+8. How can we consider the ethics of autonomous mobility?  
+9. How can we create new energy scenarios for the future?  
+10. How can we assess the human impact on energy consumption?  
+11. How can energy loss and waste be avoided?  
+12. How does digital technology connect with the territory?  
+13. How can we make sense of data?  
+14. How does AI learn compared to a human?  
+15. How can artificial intelligence demonstrate creativity?  
 
 ---
 
 ## Resources Provided
 
-Each cluster and inquiry provides:
+Each inquiry provides:
 - Inquiry scenarios and guidelines  
 - Experimentation protocols  
 - Pedagogical materials  
