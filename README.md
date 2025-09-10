@@ -8,44 +8,17 @@ SteamCity promotes the integration of scientific inquiry at school through inter
 
 This repository provides structured access to classroom-oriented resources. These resources aim to foster students' ability to analyse, design, experiment, and make informed decisions to positively impact their urban environment.
 
----
+## Repository Structure
 
-## Structure of the Repository
+The repository contains all 25 inquiries and their experimentation protocols organized by language:
+- all-inquiries/ (English)
+- protocoles_liste_complete/ (French)
+- protocolli_lista_completa/ (Italian)
+- protokoli_spisak_kompleten/ (Bulgarian)
 
-You can explore the 25 inquiries and their experimentation protocols in different ways, depending on your needs.
+Each language folder contains the complete set of educational materials translated and adapted for the respective language community.
 
-### Access to all resources at once
-
-A dedicated folder provides direct access to all inquiries and protocols in a single place.
-
----
-
-### By Clusters (Territorial Challenges)
-
-| Cluster | Topic | Focus |
-|---------|-------|-------|
-| Cluster 1 | Governance & Citizenship | Active citizenship behaviours |
-| Cluster 2 | Environment & Well-being | Environmental indicators and urban quality of life |
-| Cluster 3 | Mobility | Transport planning and sustainable mobility |
-| Cluster 4 | Energy | Energy efficiency and smart consumption |
-| Cluster 5 | Artificial Intelligence | AI applications in smart cities |
-
-> Note: Some inquiries may belong to several clusters.
-
----
-
-### By Disciplines
-
-- Civic Education  
-- History and Geography  
-- Physics and Chemistry  
-- Design and Arts  
-- Technology and Engineering  
-- Biology  
-
----
-
-### By Research Questions (From Global to Specific)
+## Research Questions Addressed
 
 1. How can we collaborate to design a sustainable city?  
 2. How does our territory work?  
@@ -63,8 +36,6 @@ A dedicated folder provides direct access to all inquiries and protocols in a si
 14. How does AI learn compared to a human?  
 15. How can artificial intelligence demonstrate creativity?  
 
----
-
 ## Resources Provided
 
 Each inquiry provides:
@@ -77,35 +48,31 @@ Resources are designed to:
 - Encourage experimentation and error  
 - Foster interdisciplinary learning  
 - Develop creativity and critical thinking  
-- Support inquiry-based learning methodologies  
+- Support inquiry-based learning methodologies
+  
+## Translation Status
 
----
-
-## Status
-
-- All resources in English are ready.  
-- Translation in progress: French, Italian, and Bulgarian.
-
----
+| Language | Folder | Status |
+|----------|--------|--------|
+| English | `all-inquiries/` | ✅ Complete |
+| French | `protocoles_liste_complete/` | ✅ Complete |
+| Italian | `protocolli_lista_completa/` | 🔄 In progress |
+| Bulgarian | `protokoli_spisak_kompleten/` | 🔄 In progress |
 
 ## Contribution Guidelines
 
 Contributions are welcome to:
 - Improve existing resources  
-- Translate materials  
+- Complete translations  
 - Propose new inquiries or protocols  
 
 Please open an Issue or submit a Pull Request.
-
----
 
 ## License
 
 This repository is shared under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 More information: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
-
----
 
 ## Contact
 
