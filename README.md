@@ -10,42 +10,19 @@ This repository provides structured access to classroom-oriented resources. Thes
 
 ---
 
-## Structure of the Repository
+## Repository Structure
 
-You can explore the 25 inquiries and their experimentation protocols in different ways, depending on your needs.
+The repository contains all 25 inquiries and their experimentation protocols organized by language:
+├── all-inquiries/ (English)
+├── protocoles_liste_complete/ (French)
+├── protocolli_lista_completa/ (Italian)
+└── protokoli_spisak_kompleten/ (Bulgarian)
 
-### Access to all resources at once
-
-A dedicated folder provides direct access to all inquiries and protocols in a single place.
-
----
-
-### By Clusters (Territorial Challenges)
-
-| Cluster | Topic | Focus |
-|---------|-------|-------|
-| Cluster 1 | Governance & Citizenship | Active citizenship behaviours |
-| Cluster 2 | Environment & Well-being | Environmental indicators and urban quality of life |
-| Cluster 3 | Mobility | Transport planning and sustainable mobility |
-| Cluster 4 | Energy | Energy efficiency and smart consumption |
-| Cluster 5 | Artificial Intelligence | AI applications in smart cities |
-
-> Note: Some inquiries may belong to several clusters.
+Each language folder contains the complete set of educational materials translated and adapted for the respective language community.
 
 ---
 
-### By Disciplines
-
-- Civic Education  
-- History and Geography  
-- Physics and Chemistry  
-- Design and Arts  
-- Technology and Engineering  
-- Biology  
-
----
-
-### By Research Questions (From Global to Specific)
+## Research Questions Addressed
 
 1. How can we collaborate to design a sustainable city?  
 2. How does our territory work?  
@@ -81,10 +58,14 @@ Resources are designed to:
 
 ---
 
-## Status
+## Translation Status
 
-- All resources in English are ready.  
-- Translation in progress: French, Italian, and Bulgarian.
+| Language | Folder | Status |
+|----------|--------|--------|
+| English | `all-inquiries/` | ✅ Complete |
+| French | `protocoles_liste_complete/` | ✅ Complete |
+| Italian | `protocolli_lista_completa/` | 🔄 In progress |
+| Bulgarian | `protokoli_spisak_kompleten/` | 🔄 In progress |
 
 ---
 
@@ -92,7 +73,7 @@ Resources are designed to:
 
 Contributions are welcome to:
 - Improve existing resources  
-- Translate materials  
+- Complete translations  
 - Propose new inquiries or protocols  
 
 Please open an Issue or submit a Pull Request.
