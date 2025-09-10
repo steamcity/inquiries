@@ -8,19 +8,15 @@ SteamCity promotes the integration of scientific inquiry at school through inter
 
 This repository provides structured access to classroom-oriented resources. These resources aim to foster students' ability to analyse, design, experiment, and make informed decisions to positively impact their urban environment.
 
----
-
 ## Repository Structure
 
 The repository contains all 25 inquiries and their experimentation protocols organized by language:
-├── all-inquiries/ (English)
-├── protocoles_liste_complete/ (French)
-├── protocolli_lista_completa/ (Italian)
-└── protokoli_spisak_kompleten/ (Bulgarian)
+all-inquiries/ (English)
+protocoles_liste_complete/ (French)
+protocolli_lista_completa/ (Italian)
+protokoli_spisak_kompleten/ (Bulgarian)
 
 Each language folder contains the complete set of educational materials translated and adapted for the respective language community.
-
----
 
 ## Research Questions Addressed
 
@@ -40,8 +36,6 @@ Each language folder contains the complete set of educational materials translat
 14. How does AI learn compared to a human?  
 15. How can artificial intelligence demonstrate creativity?  
 
----
-
 ## Resources Provided
 
 Each inquiry provides:
@@ -54,10 +48,8 @@ Resources are designed to:
 - Encourage experimentation and error  
 - Foster interdisciplinary learning  
 - Develop creativity and critical thinking  
-- Support inquiry-based learning methodologies  
-
----
-
+- Support inquiry-based learning methodologies
+  
 ## Translation Status
 
 | Language | Folder | Status |
@@ -66,8 +58,6 @@ Resources are designed to:
 | French | `protocoles_liste_complete/` | ✅ Complete |
 | Italian | `protocolli_lista_completa/` | 🔄 In progress |
 | Bulgarian | `protokoli_spisak_kompleten/` | 🔄 In progress |
-
----
 
 ## Contribution Guidelines
 
@@ -78,15 +68,11 @@ Contributions are welcome to:
 
 Please open an Issue or submit a Pull Request.
 
----
-
 ## License
 
 This repository is shared under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 More information: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
-
----
 
 ## Contact
 
