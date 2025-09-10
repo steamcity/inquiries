@@ -11,10 +11,10 @@ This repository provides structured access to classroom-oriented resources. Thes
 ## Repository Structure
 
 The repository contains all 25 inquiries and their experimentation protocols organized by language:
-all-inquiries/ (English)
-protocoles_liste_complete/ (French)
-protocolli_lista_completa/ (Italian)
-protokoli_spisak_kompleten/ (Bulgarian)
+- all-inquiries/ (English)
+- protocoles_liste_complete/ (French)
+- protocolli_lista_completa/ (Italian)
+- protokoli_spisak_kompleten/ (Bulgarian)
 
 Each language folder contains the complete set of educational materials translated and adapted for the respective language community.
 
