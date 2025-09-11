@@ -111,6 +111,9 @@ https://www.canva.com/design/DAGbaV8gLOs/9rFmqVZgthrQ9M103mUf0w/view?utm_content
 **Изследовател на изкуствения интелект: Птича песен (AI Researcher: Bird Song)**  
 https://www.canva.com/design/DAGjBoYlVvg/vX8MMOeWemQVLsb5lcTlzg/view?utm_content=DAGjBoYlVvg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h03649acaf4
 
+**Дървета срещу автомобили - Идентифициране на замърсяващи превозни средства (Trees vs Cars)**
+https://www.canva.com/design/DAGjSX5HzB4/doQmySRPRIZFtZ8pOFVC9Q/view?utm_content=DAGjSX5HzB4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc3b8b4e48a
+
 ## Как да използвате тези ресурси
 
 Всеки протокол е проектиран да:
